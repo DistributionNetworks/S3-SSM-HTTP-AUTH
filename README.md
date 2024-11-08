@@ -1,0 +1,1 @@
+For use in Lambda Edge scripts to provide HTTP Basic Auth to S3 Buckets using CloudFront, uses SSM user-path and password-path parameters to store the username and password to be allowed access to the S3 bucket
